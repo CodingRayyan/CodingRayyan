@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c46b4804-a3b9-4544-ae77-84db073e8434)
+![image](https://github.com/user-attachments/assets/e0776aa6-91f9-41c3-bbf1-792b6d0250bb)
 
 
 <h1 align="center">Hi 👋, I'm Rayyan Ahmed</h1>
