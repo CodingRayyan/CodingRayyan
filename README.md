@@ -48,6 +48,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
 </p>
+<p align="left">
+  <b>Key Models:</b> Linear Regression | Logistic Regression
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyanahmed&show_icons=true&locale=en&layout=compact" alt="rayyanahmed" /></p>
 
