@@ -48,8 +48,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/XGBoost_logo.png" alt="xgboost" width="40" height="40"/>
+  </a>
+  <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://catboost.ai/docs/concepts/images/logo.svg" alt="catboost" width="40" height="40"/>
+  </a>
+
+
 
 </p>
 
